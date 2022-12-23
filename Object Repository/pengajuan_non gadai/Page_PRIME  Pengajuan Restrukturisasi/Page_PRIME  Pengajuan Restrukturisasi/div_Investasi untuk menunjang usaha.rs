@@ -1,0 +1,115 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>div_Investasi untuk menunjang usaha</name>
+   <tag></tag>
+   <elementGuidId>75c455e3-d7ec-4920-8e21-00c0dde48f7a</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value>#list-item-493-1 > div.v-list-item__content > div.v-list-item__title</value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='list-item-493-1']/div/div</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>div</value>
+      <webElementGuid>6a4c4db5-0f91-4ede-8c16-f0e8fe14916e</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>v-list-item__title</value>
+      <webElementGuid>b6167ecb-7734-4c2b-9bda-a6d209fad690</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>Investasi untuk menunjang usaha</value>
+      <webElementGuid>dceb9ac4-9eb7-4ffa-99ad-6b2f08688384</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;list-item-493-1&quot;)/div[@class=&quot;v-list-item__content&quot;]/div[@class=&quot;v-list-item__title&quot;]</value>
+      <webElementGuid>e3cf9d12-2f36-450a-92e2-552bf05c31cc</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='list-item-493-1']/div/div</value>
+      <webElementGuid>5c360854-e398-48e0-8e68-86be0b945181</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Modal Kerja'])[1]/following::div[3]</value>
+      <webElementGuid>ea900675-5fa5-42c5-a47d-5666b016b7c1</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Daging/Unggas/Ikan'])[1]/following::div[8]</value>
+      <webElementGuid>06b873f2-f008-4b07-8169-a90bd5eddb45</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Hajatan'])[1]/preceding::div[1]</value>
+      <webElementGuid>e7475c0e-b0b5-487c-bd68-d4ed520d8dc7</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Pendidikan'])[1]/preceding::div[4]</value>
+      <webElementGuid>33ae2436-d3bc-4184-bbdb-b19408992a46</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>//*/text()[normalize-space(.)='Investasi untuk menunjang usaha']/parent::*</value>
+      <webElementGuid>697d7177-f4ed-4ca9-8d55-db67a33cc907</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div[10]/div/div[2]/div/div</value>
+      <webElementGuid>1620126d-ff4c-4b73-9410-005632406a32</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//div[(text() = 'Investasi untuk menunjang usaha' or . = 'Investasi untuk menunjang usaha')]</value>
+      <webElementGuid>04c7a268-fbc7-4696-9e5f-700b16e97785</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

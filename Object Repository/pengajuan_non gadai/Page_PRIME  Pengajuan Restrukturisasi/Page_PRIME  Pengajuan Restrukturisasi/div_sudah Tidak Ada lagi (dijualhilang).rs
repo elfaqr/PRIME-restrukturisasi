@@ -1,0 +1,99 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>div_sudah Tidak Ada lagi (dijualhilang)</name>
+   <tag></tag>
+   <elementGuidId>0b073c6f-d0ff-4574-8004-21cbf96f2025</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value>#list-item-457-2 > div.v-list-item__content > div.v-list-item__title</value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='list-item-457-2']/div/div</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>div</value>
+      <webElementGuid>e36cca27-e947-4577-8882-e4405c307e47</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>v-list-item__title</value>
+      <webElementGuid>4c3d6a4a-dbfb-45b5-9b24-0e5a8b6ddce7</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>sudah Tidak Ada lagi (dijual/hilang)</value>
+      <webElementGuid>eeef5b4b-1c60-48a9-8ba6-697ef6476583</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;list-item-457-2&quot;)/div[@class=&quot;v-list-item__content&quot;]/div[@class=&quot;v-list-item__title&quot;]</value>
+      <webElementGuid>3b072fae-191b-4947-aa85-2972c3002504</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='list-item-457-2']/div/div</value>
+      <webElementGuid>7faaa890-11ed-474f-aa55-814d2a1b201b</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Ada, tidak berfungsi'])[1]/following::div[3]</value>
+      <webElementGuid>47643ab3-4b58-4b9b-8b39-dbce1d098124</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Ada, berfungsi baik'])[1]/following::div[6]</value>
+      <webElementGuid>3a03f165-733c-4fab-b67b-4a9b4bac5df6</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>//*/text()[normalize-space(.)='sudah Tidak Ada lagi (dijual/hilang)']/parent::*</value>
+      <webElementGuid>18e38752-eddf-4eff-90e0-c67f679004bc</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div[7]/div/div[3]/div/div</value>
+      <webElementGuid>bf0f8312-2423-4646-aefb-2865620760ca</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//div[(text() = 'sudah Tidak Ada lagi (dijual/hilang)' or . = 'sudah Tidak Ada lagi (dijual/hilang)')]</value>
+      <webElementGuid>0fbe886d-363a-4335-bff5-f4aa9c2aad8e</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

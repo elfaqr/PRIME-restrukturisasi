@@ -3,7 +3,7 @@
    <description></description>
    <name>input_NIK_input-nik</name>
    <tag></tag>
-   <elementGuidId>a213bc20-d84e-43fe-9829-1ad0b5433320</elementGuidId>
+   <elementGuidId>19d1b715-79fc-48b3-a320-105f1cd0f73e</elementGuidId>
    <selectorCollection>
       <entry>
          <key>CSS</key>
@@ -22,7 +22,7 @@
       <name>tag</name>
       <type>Main</type>
       <value>input</value>
-      <webElementGuid>814fca2d-a855-438c-8ce5-288dda820ab3</webElementGuid>
+      <webElementGuid>9a25bd3b-cde3-41bf-9d25-51dc9994b98d</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -30,7 +30,7 @@
       <name>required</name>
       <type>Main</type>
       <value>required</value>
-      <webElementGuid>bbd3bb05-b57b-4312-a763-9daaa79ee6a2</webElementGuid>
+      <webElementGuid>79d1b092-8185-448d-9857-cc31968bf79a</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>true</isSelected>
@@ -38,7 +38,7 @@
       <name>id</name>
       <type>Main</type>
       <value>input-nik</value>
-      <webElementGuid>f102a214-d326-496f-bb73-0b922756e05d</webElementGuid>
+      <webElementGuid>be8eb7ee-d0cd-4072-b02f-c574dcafef3b</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>true</isSelected>
@@ -46,7 +46,7 @@
       <name>type</name>
       <type>Main</type>
       <value>text</value>
-      <webElementGuid>5cc86edf-c28a-46c2-bc99-4d0199fb31aa</webElementGuid>
+      <webElementGuid>96ed16df-8e63-4853-baa1-07b0c89be216</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>true</isSelected>
@@ -54,7 +54,7 @@
       <name>placeholder</name>
       <type>Main</type>
       <value>Username</value>
-      <webElementGuid>12702a3c-a26b-454e-898c-25a9fe972561</webElementGuid>
+      <webElementGuid>30d608ce-6f12-4274-8093-292d5be0dbae</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -62,55 +62,7 @@
       <name>xpath</name>
       <type>Main</type>
       <value>id(&quot;input-nik&quot;)</value>
-      <webElementGuid>6c3d2dfe-447a-4cee-a717-95e2d150bdc1</webElementGuid>
-   </webElementProperties>
-   <webElementProperties>
-      <isSelected>false</isSelected>
-      <matchCondition>equals</matchCondition>
-      <name>tag</name>
-      <type>Main</type>
-      <value>input</value>
-      <webElementGuid>599dcc7e-f12a-4b75-9f37-1df1b2ab4b98</webElementGuid>
-   </webElementProperties>
-   <webElementProperties>
-      <isSelected>false</isSelected>
-      <matchCondition>equals</matchCondition>
-      <name>required</name>
-      <type>Main</type>
-      <value>required</value>
-      <webElementGuid>3a46ef5f-2f9b-4c8c-b451-ca3b63ea023f</webElementGuid>
-   </webElementProperties>
-   <webElementProperties>
-      <isSelected>false</isSelected>
-      <matchCondition>equals</matchCondition>
-      <name>id</name>
-      <type>Main</type>
-      <value>input-nik</value>
-      <webElementGuid>c03b9a6c-cdce-4cbb-a60d-d0729b763946</webElementGuid>
-   </webElementProperties>
-   <webElementProperties>
-      <isSelected>false</isSelected>
-      <matchCondition>equals</matchCondition>
-      <name>type</name>
-      <type>Main</type>
-      <value>text</value>
-      <webElementGuid>ba6b8643-35d8-4d99-8fb0-d27e053781d7</webElementGuid>
-   </webElementProperties>
-   <webElementProperties>
-      <isSelected>false</isSelected>
-      <matchCondition>equals</matchCondition>
-      <name>placeholder</name>
-      <type>Main</type>
-      <value>Username</value>
-      <webElementGuid>0af7b703-e6f9-42c0-92de-22c7ec5a7a92</webElementGuid>
-   </webElementProperties>
-   <webElementProperties>
-      <isSelected>false</isSelected>
-      <matchCondition>equals</matchCondition>
-      <name>xpath</name>
-      <type>Main</type>
-      <value>id(&quot;input-nik&quot;)</value>
-      <webElementGuid>3639ced3-55a4-4d6b-ac06-64e71a738aae</webElementGuid>
+      <webElementGuid>de75da35-1d0c-4897-88a4-d3b98d722f94</webElementGuid>
    </webElementProperties>
    <webElementXpaths>
       <isSelected>true</isSelected>
@@ -118,7 +70,7 @@
       <name>xpath:attributes</name>
       <type>Main</type>
       <value>//input[@id='input-nik']</value>
-      <webElementGuid>1ae50b26-cf66-43b1-a048-7a8e3b22b3f4</webElementGuid>
+      <webElementGuid>a33d6b48-35ed-42e8-8f2c-c8ea6d0481cd</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -126,7 +78,7 @@
       <name>xpath:idRelative</name>
       <type>Main</type>
       <value>//div[@id='app']/div/main/div/div/div/div/div/div/div[2]/form/div/div/div/div[2]/input</value>
-      <webElementGuid>6420a63d-b6ed-4c10-aa3a-f1f10b041da8</webElementGuid>
+      <webElementGuid>7b8f7a60-ff11-4f7b-9a3d-f3cee8ecf2ec</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -134,7 +86,7 @@
       <name>xpath:position</name>
       <type>Main</type>
       <value>//input</value>
-      <webElementGuid>41fff264-b2a5-4dc3-9787-380b1093fde9</webElementGuid>
+      <webElementGuid>4b9130ad-0e90-455c-982b-016b66374372</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -142,6 +94,6 @@
       <name>xpath:customAttributes</name>
       <type>Main</type>
       <value>//input[@id = 'input-nik' and @type = 'text' and @placeholder = 'Username']</value>
-      <webElementGuid>e8167a17-dfcf-4565-b0b8-25e13697b134</webElementGuid>
+      <webElementGuid>63d14411-15a4-4ff9-bdc5-a7a7d8052dec</webElementGuid>
    </webElementXpaths>
 </WebElementEntity>

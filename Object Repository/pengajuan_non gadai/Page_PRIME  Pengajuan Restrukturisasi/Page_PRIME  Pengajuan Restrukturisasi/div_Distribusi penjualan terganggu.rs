@@ -1,0 +1,107 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>div_Distribusi penjualan terganggu</name>
+   <tag></tag>
+   <elementGuidId>7874992f-efad-4c7d-a2e8-f542ae5d79db</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value>#list-item-503-2 > div.v-list-item__content > div.v-list-item__title</value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='list-item-503-2']/div/div</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>div</value>
+      <webElementGuid>5f82bb7d-3e62-4a29-a9ab-48d96e2be35c</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>v-list-item__title</value>
+      <webElementGuid>139f38bc-f0e1-4565-917a-019bd55ab594</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>Distribusi penjualan terganggu</value>
+      <webElementGuid>59d7cf91-c154-4a1c-bf25-3cd746974493</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;list-item-503-2&quot;)/div[@class=&quot;v-list-item__content&quot;]/div[@class=&quot;v-list-item__title&quot;]</value>
+      <webElementGuid>7f075d14-e75e-4c45-9a5a-5b3383fab5af</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='list-item-503-2']/div/div</value>
+      <webElementGuid>5fda9e72-e5ea-4d00-b1f2-529bb32e79be</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Proses produksi terganggu'])[1]/following::div[3]</value>
+      <webElementGuid>53952a27-342a-452a-aae9-a34302d4238e</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Pasokan Bahan Baku Terganggu'])[1]/following::div[6]</value>
+      <webElementGuid>c920043a-d757-47e7-86a8-69fc6651797f</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Pasar/pelanggan menurun'])[1]/preceding::div[1]</value>
+      <webElementGuid>b3466be8-c792-415b-90fd-4c73caccadf8</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>//*/text()[normalize-space(.)='Distribusi penjualan terganggu']/parent::*</value>
+      <webElementGuid>0c04d4a3-aefc-4667-a869-981490a17563</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div[11]/div/div[3]/div/div</value>
+      <webElementGuid>aa1ea9d8-df46-4a9a-ae13-299d176eccd9</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//div[(text() = 'Distribusi penjualan terganggu' or . = 'Distribusi penjualan terganggu')]</value>
+      <webElementGuid>e924ea27-6df7-448f-ba28-884762fd7572</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

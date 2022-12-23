@@ -1,0 +1,115 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>span_Cari</name>
+   <tag></tag>
+   <elementGuidId>3fbbab63-e8d2-49bf-b2fc-e45cf45a7813</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value>button.v-btn.v-btn--is-elevated.v-btn--has-bg.theme--light.v-size--large.primary > span.v-btn__content</value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='app']/div[3]/main/div/div/div[2]/div[2]/div/div[2]/div/div/div/div/div/div[2]/form/div/div[2]/button/span</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>span</value>
+      <webElementGuid>d6320816-fc74-47ca-9dc3-5231190fb33a</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>v-btn__content</value>
+      <webElementGuid>80baf72e-c1f1-4bf0-a5e7-73a091c9be85</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value> Cari </value>
+      <webElementGuid>0f41ac40-c9fd-4b4c-86cb-5da23cf9fcd3</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;app&quot;)/div[@class=&quot;v-application--wrap&quot;]/main[@class=&quot;v-main secondary lighten-1 bg-mikro&quot;]/div[@class=&quot;v-main__wrap&quot;]/div[@class=&quot;container container--fluid&quot;]/div[@class=&quot;v-card v-sheet v-sheet--outlined theme--light&quot;]/div[@class=&quot;v-card__text&quot;]/div[@class=&quot;v-tabs theme--light&quot;]/div[@class=&quot;v-window v-item-group theme--light v-tabs-items&quot;]/div[@class=&quot;v-window__container&quot;]/div[@class=&quot;v-window-item v-window-item--active&quot;]/div[@class=&quot;mt-5&quot;]/div[1]/div[@class=&quot;ma-5 mt-1 v-card v-sheet theme--light&quot;]/div[@class=&quot;v-card__text&quot;]/form[@class=&quot;v-form mt-5 px-5&quot;]/div[@class=&quot;row row--dense&quot;]/div[@class=&quot;pt-2 col-md-6 col-12&quot;]/button[@class=&quot;v-btn v-btn--is-elevated v-btn--has-bg theme--light v-size--large primary&quot;]/span[@class=&quot;v-btn__content&quot;]</value>
+      <webElementGuid>76f52461-feaa-40c6-a326-918113cf4115</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='app']/div[3]/main/div/div/div[2]/div[2]/div/div[2]/div/div/div/div/div/div[2]/form/div/div[2]/button/span</value>
+      <webElementGuid>4ee47a5e-8b0a-4cf7-9b3a-0b84cc01766c</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Nomor Kredit'])[1]/following::span[1]</value>
+      <webElementGuid>2155fe22-fe62-4a78-85f5-d4bfbd27aafe</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='​'])[1]/following::span[1]</value>
+      <webElementGuid>b358bdd9-282b-47b5-b416-569440da2de3</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='DETAIL PINJAMAN'])[1]/preceding::span[3]</value>
+      <webElementGuid>b6274487-3d7d-4584-8095-2ccaca88ab09</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='​'])[2]/preceding::span[3]</value>
+      <webElementGuid>86c7ac80-1482-4812-974e-666c5eb633f0</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>//*/text()[normalize-space(.)='Cari']/parent::*</value>
+      <webElementGuid>2811f1ae-d447-48db-bb79-ee93e0c2d8bd</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div[2]/button/span</value>
+      <webElementGuid>5c0d01a0-22b8-4d21-b963-2768a10c2e2b</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//span[(text() = ' Cari ' or . = ' Cari ')]</value>
+      <webElementGuid>a5266d89-37db-4103-9c16-5d6df1e9e2d5</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

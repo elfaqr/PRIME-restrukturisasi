@@ -22,7 +22,7 @@
       <name>tag</name>
       <type>Main</type>
       <value>input</value>
-      <webElementGuid>68febaa1-ab69-4ff5-93c5-8304a62f28fb</webElementGuid>
+      <webElementGuid>7fc0bd1d-d627-4a10-9797-961622757b59</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>true</isSelected>
@@ -30,10 +30,42 @@
       <name>id</name>
       <type>Main</type>
       <value>nomorKredit</value>
-      <webElementGuid>9ec4f570-bc8c-4463-abf7-d3878caef43d</webElementGuid>
+      <webElementGuid>bf341ec4-39f7-486e-a9ff-28d44f252851</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>type</name>
+      <type>Main</type>
+      <value>number</value>
+      <webElementGuid>8a17b916-2e81-42ae-b96f-a614c347a060</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;nomorKredit&quot;)</value>
+      <webElementGuid>b8251e31-367f-4b95-9019-28f081086712</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>input</value>
+      <webElementGuid>68febaa1-ab69-4ff5-93c5-8304a62f28fb</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>id</name>
+      <type>Main</type>
+      <value>nomorKredit</value>
+      <webElementGuid>9ec4f570-bc8c-4463-abf7-d3878caef43d</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
       <name>type</name>
       <type>Main</type>
@@ -54,7 +86,31 @@
       <name>xpath:attributes</name>
       <type>Main</type>
       <value>//input[@id='nomorKredit']</value>
-      <webElementGuid>1573b62c-c989-4648-a410-2bc488f21bf3</webElementGuid>
+      <webElementGuid>f6c5c31d-a736-492b-bcef-dbeed21e75eb</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='app']/div[3]/main/div/div/div[2]/div[2]/div/div[2]/div/div/div/div/div/div[2]/form/div/div/div/div/div/div/div/input</value>
+      <webElementGuid>2637077e-6cb3-48d3-ba92-64430f1554ab</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//input</value>
+      <webElementGuid>263df547-a28a-4597-95ec-84294dbceb83</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//input[@id = 'nomorKredit' and @type = 'number']</value>
+      <webElementGuid>a75b2fb6-13de-4536-b269-c8740be04d7d</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -63,14 +119,6 @@
       <type>Main</type>
       <value>//div[@id='app']/div[3]/main/div/div/div[2]/div/div/div/div[2]/div/div/div/div/div/div/div/div/div/div/div/input</value>
       <webElementGuid>1141704e-e66e-4652-b8c4-6c9b114c96df</webElementGuid>
-   </webElementXpaths>
-   <webElementXpaths>
-      <isSelected>false</isSelected>
-      <matchCondition>equals</matchCondition>
-      <name>xpath:position</name>
-      <type>Main</type>
-      <value>//input</value>
-      <webElementGuid>bc3fcb1a-fd79-4e30-93a3-e0ebf213c992</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>

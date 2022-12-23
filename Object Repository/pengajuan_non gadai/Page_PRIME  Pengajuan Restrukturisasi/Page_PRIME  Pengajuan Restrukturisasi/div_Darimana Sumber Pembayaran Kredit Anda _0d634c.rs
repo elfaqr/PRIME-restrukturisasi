@@ -1,0 +1,91 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>div_Darimana Sumber Pembayaran Kredit Anda _0d634c</name>
+   <tag></tag>
+   <elementGuidId>ba69356c-53bc-4120-ac0f-cde03ecad3f0</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value></value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='app']/div[3]/main/div/div/div[2]/div[2]/div/div[2]/div/div[2]/div/div/div/div[2]/form/div/div[3]/div/div/div/div/div</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>div</value>
+      <webElementGuid>170a8acf-4246-43b1-9284-4215a0006434</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>v-select__selections</value>
+      <webElementGuid>732019c6-cac2-4e6a-88b0-9e6ddd49fd68</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;app&quot;)/div[@class=&quot;v-application--wrap&quot;]/main[@class=&quot;v-main secondary lighten-1 bg-mikro&quot;]/div[@class=&quot;v-main__wrap&quot;]/div[@class=&quot;container container--fluid&quot;]/div[@class=&quot;v-card v-sheet v-sheet--outlined theme--light&quot;]/div[@class=&quot;v-card__text&quot;]/div[@class=&quot;v-tabs theme--light&quot;]/div[@class=&quot;v-window v-item-group theme--light v-tabs-items&quot;]/div[@class=&quot;v-window__container&quot;]/div[@class=&quot;v-window-item v-window-item--active&quot;]/div[@class=&quot;mt-5&quot;]/div[1]/div[@class=&quot;ma-5 mt-1 v-card v-sheet theme--light&quot;]/div[@class=&quot;v-card__text&quot;]/form[@class=&quot;v-form mt-10&quot;]/div[@class=&quot;row row--dense&quot;]/div[@class=&quot;px-5 py-0 col-md-6 col-12&quot;]/div[@class=&quot;v-input v-input--is-focused theme--light v-text-field v-text-field--is-booted v-text-field--enclosed v-text-field--outlined v-select primary--text&quot;]/div[@class=&quot;v-input__control&quot;]/div[@class=&quot;v-input__slot&quot;]/div[@class=&quot;v-select__slot&quot;]/div[@class=&quot;v-select__selections&quot;]</value>
+      <webElementGuid>ac899d91-ef1f-4656-8fbe-6040cd9c06d6</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='app']/div[3]/main/div/div/div[2]/div[2]/div/div[2]/div/div[2]/div/div/div/div[2]/form/div/div[3]/div/div/div/div/div</value>
+      <webElementGuid>8ec1bab9-c0ff-471b-b5c2-3e5b20c67abd</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Darimana Sumber Pembayaran Kredit Anda Saat Ini ?'])[1]/following::div[1]</value>
+      <webElementGuid>07b707e2-fe90-4fb7-86fd-6f6adb1fc9d7</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='​'])[28]/following::div[2]</value>
+      <webElementGuid>ac309e16-97cf-4ebc-9d23-6588b42f5984</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='​'])[29]/preceding::div[7]</value>
+      <webElementGuid>e2c687c2-6bcc-4f9b-aa5e-499d11fc849b</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Digunakan untuk apakah dana yang dahulu anda peroleh dari pegadaian ?'])[1]/preceding::div[7]</value>
+      <webElementGuid>83fb91d8-bda8-4017-bb98-ba1d74ba55f2</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//form/div/div[3]/div/div/div/div/div</value>
+      <webElementGuid>37de4769-1c62-434f-8235-f96e46d59459</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

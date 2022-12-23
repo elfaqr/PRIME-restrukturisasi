@@ -3,7 +3,7 @@
    <description></description>
    <name>div_Pengajuan</name>
    <tag></tag>
-   <elementGuidId>3738a45e-af08-4ac6-934a-4f283561b163</elementGuidId>
+   <elementGuidId>15195c6b-51f9-4c36-a5f3-9e66f25415c4</elementGuidId>
    <selectorCollection>
       <entry>
          <key>CSS</key>
@@ -22,7 +22,7 @@
       <name>tag</name>
       <type>Main</type>
       <value>div</value>
-      <webElementGuid>e31faf7c-f60b-4419-af1a-b7674c9f0114</webElementGuid>
+      <webElementGuid>0d39b09d-b3c9-4026-a3fc-d077906c1fcf</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -30,7 +30,7 @@
       <name>class</name>
       <type>Main</type>
       <value>v-list-item__title</value>
-      <webElementGuid>f3234212-4859-4429-9bda-f0f91d14eda1</webElementGuid>
+      <webElementGuid>e3d2f5e7-3beb-4ffc-a358-38b890741f4a</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>true</isSelected>
@@ -38,7 +38,7 @@
       <name>text</name>
       <type>Main</type>
       <value>Pengajuan</value>
-      <webElementGuid>acf12485-a78e-4d53-a5d2-3ecd1ae1d0fd</webElementGuid>
+      <webElementGuid>2789d321-c829-4b0f-977f-4ef0047cbc2c</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -46,39 +46,7 @@
       <name>xpath</name>
       <type>Main</type>
       <value>id(&quot;app&quot;)/div[@class=&quot;v-application--wrap&quot;]/nav[@class=&quot;secondary lighten-1 mt-5 v-navigation-drawer v-navigation-drawer--clipped v-navigation-drawer--fixed v-navigation-drawer--is-mouseover v-navigation-drawer--open theme--light&quot;]/div[@class=&quot;v-navigation-drawer__content&quot;]/div[@class=&quot;ma-5 v-card v-sheet theme--light&quot;]/div[@class=&quot;v-list v-sheet theme--light&quot;]/div[@class=&quot;v-item-group theme--light v-list-item-group&quot;]/div[@class=&quot;v-list-group v-list-group--active v-list-group--no-action primary--text&quot;]/div[@class=&quot;v-list-group__items&quot;]/div[1]/a[@class=&quot;v-list-item v-list-item--link theme--light&quot;]/div[@class=&quot;v-list-item__title&quot;]</value>
-      <webElementGuid>2e2d3670-bb01-4027-a96c-62ef387ee060</webElementGuid>
-   </webElementProperties>
-   <webElementProperties>
-      <isSelected>false</isSelected>
-      <matchCondition>equals</matchCondition>
-      <name>tag</name>
-      <type>Main</type>
-      <value>div</value>
-      <webElementGuid>99475ffb-6ffc-4946-8787-c255d985d398</webElementGuid>
-   </webElementProperties>
-   <webElementProperties>
-      <isSelected>false</isSelected>
-      <matchCondition>equals</matchCondition>
-      <name>class</name>
-      <type>Main</type>
-      <value>v-list-item__title</value>
-      <webElementGuid>95d018ef-0425-4de1-88b4-06f8947ebede</webElementGuid>
-   </webElementProperties>
-   <webElementProperties>
-      <isSelected>false</isSelected>
-      <matchCondition>equals</matchCondition>
-      <name>text</name>
-      <type>Main</type>
-      <value>Pengajuan</value>
-      <webElementGuid>1207cca2-0bcf-45c4-8cde-3352471940d8</webElementGuid>
-   </webElementProperties>
-   <webElementProperties>
-      <isSelected>false</isSelected>
-      <matchCondition>equals</matchCondition>
-      <name>xpath</name>
-      <type>Main</type>
-      <value>id(&quot;app&quot;)/div[@class=&quot;v-application--wrap&quot;]/nav[@class=&quot;secondary lighten-1 mt-5 v-navigation-drawer v-navigation-drawer--clipped v-navigation-drawer--fixed v-navigation-drawer--is-mouseover v-navigation-drawer--open theme--light&quot;]/div[@class=&quot;v-navigation-drawer__content&quot;]/div[@class=&quot;ma-5 v-card v-sheet theme--light&quot;]/div[@class=&quot;v-list v-sheet theme--light&quot;]/div[@class=&quot;v-item-group theme--light v-list-item-group&quot;]/div[@class=&quot;v-list-group v-list-group--active v-list-group--no-action primary--text&quot;]/div[@class=&quot;v-list-group__items&quot;]/div[1]/a[@class=&quot;v-list-item v-list-item--link theme--light&quot;]/div[@class=&quot;v-list-item__title&quot;]</value>
-      <webElementGuid>aab56e6c-6802-4a0f-abc8-9934998ccfd3</webElementGuid>
+      <webElementGuid>74d7c0da-73f5-4726-948a-560a2d9f1993</webElementGuid>
    </webElementProperties>
    <webElementXpaths>
       <isSelected>true</isSelected>
@@ -86,7 +54,7 @@
       <name>xpath:idRelative</name>
       <type>Main</type>
       <value>//div[@id='app']/div[2]/nav/div/div/div/div[5]/div/div[2]/div/a/div[2]</value>
-      <webElementGuid>d6cbd370-ae44-4dcd-a4db-0fbfc8ca40fc</webElementGuid>
+      <webElementGuid>48df5daf-f458-4dc7-a414-de994c7fb909</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -94,7 +62,7 @@
       <name>xpath:neighbor</name>
       <type>Main</type>
       <value>(.//*[normalize-space(text()) and normalize-space(.)='Restrukturisasi Non Gadai'])[2]/following::div[5]</value>
-      <webElementGuid>95058bab-d9c1-47f4-bb5d-fd0123e73161</webElementGuid>
+      <webElementGuid>0943e29c-148f-450e-85e6-ee9aad8891b6</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -102,7 +70,7 @@
       <name>xpath:neighbor</name>
       <type>Main</type>
       <value>(.//*[normalize-space(text()) and normalize-space(.)='Laporan'])[1]/following::div[12]</value>
-      <webElementGuid>2771671f-fb18-4782-9843-497d25a15b65</webElementGuid>
+      <webElementGuid>70a8a4bd-d2da-4bb1-bc91-2fc05941b15f</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -110,7 +78,7 @@
       <name>xpath:neighbor</name>
       <type>Main</type>
       <value>(.//*[normalize-space(text()) and normalize-space(.)='Survey'])[1]/preceding::div[2]</value>
-      <webElementGuid>f4fdaf5e-4a32-4e3f-8f37-8c6bb1d32cb7</webElementGuid>
+      <webElementGuid>404785f9-d567-456e-b530-d224fadfe778</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -118,7 +86,7 @@
       <name>xpath:neighbor</name>
       <type>Main</type>
       <value>(.//*[normalize-space(text()) and normalize-space(.)='Persetujuan'])[1]/preceding::div[5]</value>
-      <webElementGuid>83a45686-5f68-4f9e-96a6-9956ae2d2e5a</webElementGuid>
+      <webElementGuid>7bab4cb5-93a3-4100-aa91-e6861b53d4f0</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -126,7 +94,7 @@
       <name>xpath:neighbor</name>
       <type>Main</type>
       <value>//*/text()[normalize-space(.)='Pengajuan']/parent::*</value>
-      <webElementGuid>4bc91725-8f1f-468f-bd12-4cdb46854010</webElementGuid>
+      <webElementGuid>9cb84f86-93df-4de7-a992-5d29a2e9cb56</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -134,7 +102,7 @@
       <name>xpath:position</name>
       <type>Main</type>
       <value>//div[2]/div/a/div[2]</value>
-      <webElementGuid>bd6fc91e-7340-44a5-bd7d-0d69e6ce9a31</webElementGuid>
+      <webElementGuid>ff4311e8-a020-4ead-ae39-ee1dd3eeabe8</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -142,6 +110,6 @@
       <name>xpath:customAttributes</name>
       <type>Main</type>
       <value>//div[(text() = 'Pengajuan' or . = 'Pengajuan')]</value>
-      <webElementGuid>81f24d31-bc4a-4a0e-b717-5b13405d0857</webElementGuid>
+      <webElementGuid>b0f33ccc-1c03-4ece-b5c9-bd0422c61ceb</webElementGuid>
    </webElementXpaths>
 </WebElementEntity>

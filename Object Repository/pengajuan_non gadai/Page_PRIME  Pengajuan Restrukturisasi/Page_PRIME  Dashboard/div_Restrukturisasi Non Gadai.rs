@@ -1,0 +1,107 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>div_Restrukturisasi Non Gadai</name>
+   <tag></tag>
+   <elementGuidId>e66d2a36-e33d-4628-8989-2c1a2e2b46d3</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value></value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='app']/div[2]/nav/div/div/div/div[5]/div/div/div[2]/div</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>div</value>
+      <webElementGuid>d2da54b5-a1e0-46db-8325-4f9ad294d091</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>v-list-item__title</value>
+      <webElementGuid>e5412116-fcb3-4667-8df8-a489f41952a2</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>Restrukturisasi Non Gadai</value>
+      <webElementGuid>991c7ad6-8d70-48d0-b429-95dd52d7aa20</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;app&quot;)/div[@class=&quot;v-application--wrap&quot;]/nav[@class=&quot;secondary lighten-1 mt-5 v-navigation-drawer v-navigation-drawer--clipped v-navigation-drawer--fixed v-navigation-drawer--is-mouseover v-navigation-drawer--open theme--light&quot;]/div[@class=&quot;v-navigation-drawer__content&quot;]/div[@class=&quot;ma-5 v-card v-sheet theme--light&quot;]/div[@class=&quot;v-list v-sheet theme--light&quot;]/div[@class=&quot;v-item-group theme--light v-list-item-group&quot;]/div[@class=&quot;v-list-group v-list-group--no-action&quot;]/div[@class=&quot;v-list-group__header v-list-item v-list-item--link theme--light&quot;]/div[@class=&quot;v-list-item__content&quot;]/div[@class=&quot;v-list-item__title&quot;]</value>
+      <webElementGuid>8ed9e22c-e19e-4d37-993b-8d9e852995b2</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='app']/div[2]/nav/div/div/div/div[5]/div/div/div[2]/div</value>
+      <webElementGuid>46f71a78-0dca-4aab-aae5-1e912fa7e852</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Laporan'])[1]/following::div[7]</value>
+      <webElementGuid>28ca64c5-b29a-47f6-ad44-eeb8c501d0ce</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Restrukturisasi Non Gadai'])[1]/following::div[14]</value>
+      <webElementGuid>f7ecc812-2d81-425c-8bdf-8e5d8f7acc94</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Restrukturisasi Gadai'])[1]/preceding::div[3]</value>
+      <webElementGuid>8c19f7c3-66ec-4b5c-9388-af11ee92b9a2</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Dashboard'])[2]/preceding::div[10]</value>
+      <webElementGuid>be93831f-1703-40c6-b90e-1ef328e73623</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div[5]/div/div/div[2]/div</value>
+      <webElementGuid>e2a4cda4-756b-49c6-9789-89dce92fb1f1</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//div[(text() = 'Restrukturisasi Non Gadai' or . = 'Restrukturisasi Non Gadai')]</value>
+      <webElementGuid>40410a17-9106-4452-8b55-4c3f784a152e</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>
