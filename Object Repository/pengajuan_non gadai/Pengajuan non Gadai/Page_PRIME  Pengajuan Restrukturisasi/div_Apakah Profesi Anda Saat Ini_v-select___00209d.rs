@@ -1,0 +1,91 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>div_Apakah Profesi Anda Saat Ini_v-select___00209d</name>
+   <tag></tag>
+   <elementGuidId>23bf1857-5f73-4605-8a30-0e2167551cd9</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='app']/div[3]/main/div/div/div[2]/div[2]/div/div[2]/div/div[2]/div/div/div/div[2]/form/div/div/div/div/div/div/div</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value>div.v-select__selections</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>div</value>
+      <webElementGuid>fd2e529a-1a37-4fbe-9ba4-4d1329b1c096</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>v-select__selections</value>
+      <webElementGuid>7fa57724-39d0-4046-88e4-a8e4f3bbcf5b</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;app&quot;)/div[@class=&quot;v-application--wrap&quot;]/main[@class=&quot;v-main secondary lighten-1 bg-mikro&quot;]/div[@class=&quot;v-main__wrap&quot;]/div[@class=&quot;container container--fluid&quot;]/div[@class=&quot;v-card v-sheet v-sheet--outlined theme--light&quot;]/div[@class=&quot;v-card__text&quot;]/div[@class=&quot;v-tabs theme--light&quot;]/div[@class=&quot;v-window v-item-group theme--light v-tabs-items&quot;]/div[@class=&quot;v-window__container&quot;]/div[@class=&quot;v-window-item v-window-item--active&quot;]/div[@class=&quot;mt-5&quot;]/div[1]/div[@class=&quot;ma-5 mt-1 v-card v-sheet theme--light&quot;]/div[@class=&quot;v-card__text&quot;]/form[@class=&quot;v-form mt-10&quot;]/div[@class=&quot;row row--dense&quot;]/div[@class=&quot;px-5 py-0 col-md-6 col-12&quot;]/div[@class=&quot;v-input v-input--is-focused theme--light v-text-field v-text-field--is-booted v-text-field--enclosed v-text-field--outlined v-select primary--text&quot;]/div[@class=&quot;v-input__control&quot;]/div[@class=&quot;v-input__slot&quot;]/div[@class=&quot;v-select__slot&quot;]/div[@class=&quot;v-select__selections&quot;]</value>
+      <webElementGuid>05cd288e-503f-425d-bc19-4241c790b42a</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='app']/div[3]/main/div/div/div[2]/div[2]/div/div[2]/div/div[2]/div/div/div/div[2]/form/div/div/div/div/div/div/div</value>
+      <webElementGuid>e696732a-3c31-49a0-989c-f477e37422eb</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Apakah Profesi Anda Saat Ini ?'])[1]/following::div[1]</value>
+      <webElementGuid>6cc4237e-23d9-4a15-8dcb-4aa8faa4b8d1</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='​'])[26]/following::div[2]</value>
+      <webElementGuid>d426edc4-8379-4e38-aef4-5aa84f7dc1d1</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='​'])[27]/preceding::div[7]</value>
+      <webElementGuid>3dbc9ca9-b3c1-4979-b2d1-1a5f550d86de</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Pilih rincian jenis usaha yang anda jalankan saat ini ?'])[1]/preceding::div[7]</value>
+      <webElementGuid>286f7d18-b63b-4cf8-8939-ed76e53c886c</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div[2]/div/div/div/div[2]/form/div/div/div/div/div/div/div</value>
+      <webElementGuid>75a39699-1d3e-4929-ac91-999c6a3a4409</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

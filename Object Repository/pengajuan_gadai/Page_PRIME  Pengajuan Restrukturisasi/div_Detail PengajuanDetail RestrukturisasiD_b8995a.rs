@@ -1,0 +1,91 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>div_Detail PengajuanDetail RestrukturisasiD_b8995a</name>
+   <tag></tag>
+   <elementGuidId>9288afe1-d6c5-48e8-b234-fa059db7c920</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='app']/div[3]/main/div/div/div[2]/div[2]</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value>div.v-card__text</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>div</value>
+      <webElementGuid>2ed07455-7703-49a5-8302-090eb2263667</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>v-card__text</value>
+      <webElementGuid>1bcbf597-02cf-4d02-bf20-971458328fd0</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>Detail PengajuanDetail RestrukturisasiDetail WawancaraINQUIRY KREDIT ​Nomor Kredit Cari DETAIL PINJAMAN ​Tipe Nasabah​CIF​Nama Nasabah​Produk​Pola Angsuran​Tanggal Kredit​Tenor​Sisa Tenor​Tenor Tunggakan​Uang Pinjaman AwalRupiah​Pokok Per BulanRupiah​Sewa Modal Per BulanRupiah​AngsuranRupiah​Sisa PokokRupiah​Sisa Sewa ModalRupiah​Tunggakan PokokRupiah​Tunggakan Sewa ModalRupiah​Tunggakan AngsuranRupiahDETAIL RESTRUKTURISASI ​Persen OSL​Maksimal Tenor​Maksimal Tunda Pokok​Maksimal Perpanjangan​Uang Pinjaman BaruRupiah​Sewa Modal Per BulanRupiah SELANJUTNYA DATA FASILITAS KREDIT ​Tenor12​Pilihan Tunda BayarPOKOK​Lama Tunda Bayar6​Angsuran Tunda BayarRupiah​Angsuran PokokRupiah​AngsuranRupiahDATA TAKSIRANRUBRIKTIPE JAMINANKETERANGANTAKSIRANActionsNo data availableRows per page:5– KEMBALI SELANJUTNYA WAWANCARA ​Apakah Profesi Anda Saat Ini ?Pengusaha Mikro/wiraswasta​Pilih rincian jenis usaha yang anda jalankan saat ini ?Rumah Makan​Darimana Sumber Pembayaran Kredit Anda Saat Ini ?Pendapatan Gaji Sendiri/Pasangan​Digunakan untuk apakah dana yang dahulu anda peroleh dari pegadaian ?Modal Kerja​Bagaimana Kondisi Barang Jaminan Kredit Anda Saat Ini ?Ada, berfungsi baik​Bagaimana pengaruh virus corona terhadap usaha yang anda jalankan ?​Apakah Jenis Usaha yang anda jalankan saat ini ?Perdagangan​Bagaimana kondisi usaha anda saat ini?Masih berlangsung, namun menurun Ditutup sementara, ada rencana dilanjutkan​Berapakah jumlah pendapatan anda per bulan sebelum terdampak?(Seluruh pendapatan termasuk pasangan)Rupiah​Berapakah jumlah pendapatan anda per bulan saat ini?(Seluruh pendapatan termasuk pasangan)Rupiah​Berapakah rata - rata jumlah pengeluaran anda per bulan saat ini ?Rupiah KEMBALIAJUKAN </value>
+      <webElementGuid>e8aebe5b-b047-4661-ae0d-1c5ea7d7112c</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;app&quot;)/div[@class=&quot;v-application--wrap&quot;]/main[@class=&quot;v-main secondary lighten-1 bg-mikro&quot;]/div[@class=&quot;v-main__wrap&quot;]/div[@class=&quot;container container--fluid&quot;]/div[@class=&quot;v-card v-sheet v-sheet--outlined theme--light&quot;]/div[@class=&quot;v-card__text&quot;]</value>
+      <webElementGuid>7f18b330-13d1-4c77-b103-6a25f91d2c21</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='app']/div[3]/main/div/div/div[2]/div[2]</value>
+      <webElementGuid>f58ab232-26e0-4da4-b013-aeb2cd3ef374</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='PENGAJUAN RESTRUKTURISASI'])[1]/following::div[1]</value>
+      <webElementGuid>159301ea-9969-4053-8d0f-03e710b85f31</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Pengajuan'])[2]/following::div[3]</value>
+      <webElementGuid>1567bde9-785a-451a-b93d-9113dc6800b2</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//main/div/div/div[2]/div[2]</value>
+      <webElementGuid>bd2fb2ea-606c-4794-8c72-95d458da12e6</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//div[(text() = 'Detail PengajuanDetail RestrukturisasiDetail WawancaraINQUIRY KREDIT ​Nomor Kredit Cari DETAIL PINJAMAN ​Tipe Nasabah​CIF​Nama Nasabah​Produk​Pola Angsuran​Tanggal Kredit​Tenor​Sisa Tenor​Tenor Tunggakan​Uang Pinjaman AwalRupiah​Pokok Per BulanRupiah​Sewa Modal Per BulanRupiah​AngsuranRupiah​Sisa PokokRupiah​Sisa Sewa ModalRupiah​Tunggakan PokokRupiah​Tunggakan Sewa ModalRupiah​Tunggakan AngsuranRupiahDETAIL RESTRUKTURISASI ​Persen OSL​Maksimal Tenor​Maksimal Tunda Pokok​Maksimal Perpanjangan​Uang Pinjaman BaruRupiah​Sewa Modal Per BulanRupiah SELANJUTNYA DATA FASILITAS KREDIT ​Tenor12​Pilihan Tunda BayarPOKOK​Lama Tunda Bayar6​Angsuran Tunda BayarRupiah​Angsuran PokokRupiah​AngsuranRupiahDATA TAKSIRANRUBRIKTIPE JAMINANKETERANGANTAKSIRANActionsNo data availableRows per page:5– KEMBALI SELANJUTNYA WAWANCARA ​Apakah Profesi Anda Saat Ini ?Pengusaha Mikro/wiraswasta​Pilih rincian jenis usaha yang anda jalankan saat ini ?Rumah Makan​Darimana Sumber Pembayaran Kredit Anda Saat Ini ?Pendapatan Gaji Sendiri/Pasangan​Digunakan untuk apakah dana yang dahulu anda peroleh dari pegadaian ?Modal Kerja​Bagaimana Kondisi Barang Jaminan Kredit Anda Saat Ini ?Ada, berfungsi baik​Bagaimana pengaruh virus corona terhadap usaha yang anda jalankan ?​Apakah Jenis Usaha yang anda jalankan saat ini ?Perdagangan​Bagaimana kondisi usaha anda saat ini?Masih berlangsung, namun menurun Ditutup sementara, ada rencana dilanjutkan​Berapakah jumlah pendapatan anda per bulan sebelum terdampak?(Seluruh pendapatan termasuk pasangan)Rupiah​Berapakah jumlah pendapatan anda per bulan saat ini?(Seluruh pendapatan termasuk pasangan)Rupiah​Berapakah rata - rata jumlah pengeluaran anda per bulan saat ini ?Rupiah KEMBALIAJUKAN ' or . = 'Detail PengajuanDetail RestrukturisasiDetail WawancaraINQUIRY KREDIT ​Nomor Kredit Cari DETAIL PINJAMAN ​Tipe Nasabah​CIF​Nama Nasabah​Produk​Pola Angsuran​Tanggal Kredit​Tenor​Sisa Tenor​Tenor Tunggakan​Uang Pinjaman AwalRupiah​Pokok Per BulanRupiah​Sewa Modal Per BulanRupiah​AngsuranRupiah​Sisa PokokRupiah​Sisa Sewa ModalRupiah​Tunggakan PokokRupiah​Tunggakan Sewa ModalRupiah​Tunggakan AngsuranRupiahDETAIL RESTRUKTURISASI ​Persen OSL​Maksimal Tenor​Maksimal Tunda Pokok​Maksimal Perpanjangan​Uang Pinjaman BaruRupiah​Sewa Modal Per BulanRupiah SELANJUTNYA DATA FASILITAS KREDIT ​Tenor12​Pilihan Tunda BayarPOKOK​Lama Tunda Bayar6​Angsuran Tunda BayarRupiah​Angsuran PokokRupiah​AngsuranRupiahDATA TAKSIRANRUBRIKTIPE JAMINANKETERANGANTAKSIRANActionsNo data availableRows per page:5– KEMBALI SELANJUTNYA WAWANCARA ​Apakah Profesi Anda Saat Ini ?Pengusaha Mikro/wiraswasta​Pilih rincian jenis usaha yang anda jalankan saat ini ?Rumah Makan​Darimana Sumber Pembayaran Kredit Anda Saat Ini ?Pendapatan Gaji Sendiri/Pasangan​Digunakan untuk apakah dana yang dahulu anda peroleh dari pegadaian ?Modal Kerja​Bagaimana Kondisi Barang Jaminan Kredit Anda Saat Ini ?Ada, berfungsi baik​Bagaimana pengaruh virus corona terhadap usaha yang anda jalankan ?​Apakah Jenis Usaha yang anda jalankan saat ini ?Perdagangan​Bagaimana kondisi usaha anda saat ini?Masih berlangsung, namun menurun Ditutup sementara, ada rencana dilanjutkan​Berapakah jumlah pendapatan anda per bulan sebelum terdampak?(Seluruh pendapatan termasuk pasangan)Rupiah​Berapakah jumlah pendapatan anda per bulan saat ini?(Seluruh pendapatan termasuk pasangan)Rupiah​Berapakah rata - rata jumlah pengeluaran anda per bulan saat ini ?Rupiah KEMBALIAJUKAN ')]</value>
+      <webElementGuid>ac04b030-020f-4f4d-983b-5cc023271df3</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

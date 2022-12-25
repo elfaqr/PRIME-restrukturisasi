@@ -19,27 +19,103 @@ import org.openqa.selenium.Keys as Keys
 
 WebUI.openBrowser('')
 
-WebUI.navigateToUrl('http://localhost:8080/dashboard')
+WebUI.navigateToUrl('http://localhost:8080/login')
 
-WebUI.setText(findTestObject('Object Repository/pengajuan_non gadai/Page_PRIME  Login/input_NIK_input-nik'), 'PKS30003')
+WebUI.setText(findTestObject('Object Repository/pengajuan_non gadai/Pengajuan non Gadai/Page_PRIME  Login/input_NIK_input-nik'), 
+    'PKS30003')
 
-WebUI.setEncryptedText(findTestObject('Object Repository/pengajuan_non gadai/Page_PRIME  Login/input_Password_input-password'), 
+WebUI.setEncryptedText(findTestObject('Object Repository/pengajuan_non gadai/Pengajuan non Gadai/Page_PRIME  Login/input_Password_input-password'), 
     '4nvbrPglk7k=')
 
-WebUI.click(findTestObject('Object Repository/pengajuan_non gadai/Page_PRIME  Login/span_Masuk'))
+WebUI.click(findTestObject('Object Repository/pengajuan_non gadai/Pengajuan non Gadai/Page_PRIME  Login/span_Masuk'))
 
-WebUI.click(findTestObject('Object Repository/pengajuan_non gadai/Page_PRIME  Dashboard/button_Ok'))
+WebUI.click(findTestObject('Object Repository/pengajuan_non gadai/Pengajuan non Gadai/Page_PRIME  Dashboard/span_Ok'))
 
-WebUI.click(findTestObject('Object Repository/pengajuan_non gadai/Page_PRIME  Dashboard/div_Restrukturisasi Non Gadai_v-list-item___faca89'))
+WebUI.click(findTestObject('Object Repository/pengajuan_non gadai/Pengajuan non Gadai/Page_PRIME  Dashboard/div_Restrukturisasi Non Gadai'))
 
-WebUI.click(findTestObject('Object Repository/pengajuan_non gadai/Page_PRIME  Dashboard/div_Pengajuan'))
+WebUI.click(findTestObject('Object Repository/pengajuan_non gadai/Pengajuan non Gadai/Page_PRIME  Dashboard/div_Pengajuan'))
 
-WebUI.setText(findTestObject('Object Repository/pengajuan_non gadai/Page_PRIME  Pengajuan Restrukturisasi/input_Nomor Kredit_nomorKredit'), 
-    '23213213')
+WebUI.setText(findTestObject('Object Repository/pengajuan_non gadai/Pengajuan non Gadai/Page_PRIME  Pengajuan Restrukturisasi/input_Nomor Kredit_nomorKredit'), 
+    '6002522760000024')
 
-WebUI.click(findTestObject('Object Repository/pengajuan_non gadai/Page_PRIME  Pengajuan Restrukturisasi/span_Cari'))
+WebUI.click(findTestObject('Object Repository/pengajuan_non gadai/Pengajuan non Gadai/Page_PRIME  Pengajuan Restrukturisasi/button_Cari'))
 
-WebUI.click(findTestObject('Object Repository/pengajuan_non gadai/Page_PRIME  Pengajuan Restrukturisasi/button_OK'))
+WebUI.click(findTestObject('Object Repository/pengajuan_non gadai/Pengajuan non Gadai/Page_PRIME  Pengajuan Restrukturisasi/span_SELANJUTNYA'))
+
+WebUI.click(findTestObject('Object Repository/pengajuan_non gadai/Pengajuan non Gadai/Page_PRIME  Pengajuan Restrukturisasi/div_Apakah Profesi Anda Saat Ini_v-select___00209d'))
+
+WebUI.setText(findTestObject('pengajuan_non gadai/Pengajuan non Gadai/Page_PRIME  Pengajuan Restrukturisasi/input_Karyawan_profesi'), 
+    'nelayan')
+
+WebUI.sendKeys(findTestObject('Object Repository/pengajuan_non gadai/Pengajuan non Gadai/Page_PRIME  Pengajuan Restrukturisasi/input_Karyawan_profesi'), 
+    Keys.chord(Keys.ENTER))
+
+WebUI.click(findTestObject('Object Repository/pengajuan_non gadai/Pengajuan non Gadai/Page_PRIME  Pengajuan Restrukturisasi/div_Apakah Profesi Anda Saat Ini_v-select___00209d'))
+
+WebUI.setText(findTestObject('Object Repository/pengajuan_non gadai/Pengajuan non Gadai/Page_PRIME  Pengajuan Restrukturisasi/input_Nomor Kredit_nomorKredit'), 
+    'hasil usaha')
+
+WebUI.sendKeys(findTestObject('Object Repository/pengajuan_non gadai/Pengajuan non Gadai/Page_PRIME  Pengajuan Restrukturisasi/input_Pendapatan Gaji SendiriPasangan_sumbe_b60610'), 
+    Keys.chord(Keys.ENTER))
+
+WebUI.click(findTestObject('Object Repository/pengajuan_non gadai/Pengajuan non Gadai/Page_PRIME  Pengajuan Restrukturisasi/div_Apakah Profesi Anda Saat Ini_v-select___00209d'))
+
+WebUI.setText(findTestObject('Object Repository/pengajuan_non gadai/Pengajuan non Gadai/Page_PRIME  Pengajuan Restrukturisasi/input_Nomor Kredit_nomorKredit'), 
+    'sudah tidak ada lagi')
+
+WebUI.sendKeys(findTestObject('Object Repository/pengajuan_non gadai/Pengajuan non Gadai/Page_PRIME  Pengajuan Restrukturisasi/input_Ada, berfungsi baik_kondisiBarangJaminan'), 
+    Keys.chord(Keys.ENTER))
+
+WebUI.click(findTestObject('Object Repository/pengajuan_non gadai/Pengajuan non Gadai/Page_PRIME  Pengajuan Restrukturisasi/div_Apakah Profesi Anda Saat Ini_v-select___00209d'))
+
+WebUI.setText(findTestObject('Object Repository/pengajuan_non gadai/Pengajuan non Gadai/Page_PRIME  Pengajuan Restrukturisasi/input_Nomor Kredit_nomorKredit'), 
+    'jasa')
+
+WebUI.sendKeys(findTestObject('Object Repository/pengajuan_non gadai/Pengajuan non Gadai/Page_PRIME  Pengajuan Restrukturisasi/input_Jasa_jenisUsaha'), 
+    Keys.chord(Keys.ENTER))
+
+WebUI.click(findTestObject('Object Repository/pengajuan_non gadai/Pengajuan non Gadai/Page_PRIME  Pengajuan Restrukturisasi/div_Apakah Profesi Anda Saat Ini_v-select___00209d'))
+
+WebUI.setText(findTestObject('Object Repository/pengajuan_non gadai/Pengajuan non Gadai/Page_PRIME  Pengajuan Restrukturisasi/input_Nomor Kredit_nomorKredit'), 
+    'rumah makan')
+
+WebUI.sendKeys(findTestObject('Object Repository/pengajuan_non gadai/Pengajuan non Gadai/Page_PRIME  Pengajuan Restrukturisasi/input_Kesehatan_rincianJenisUsaha'), 
+    Keys.chord(Keys.ENTER))
+
+WebUI.click(findTestObject('Object Repository/pengajuan_non gadai/Pengajuan non Gadai/Page_PRIME  Pengajuan Restrukturisasi/div_Apakah Profesi Anda Saat Ini_v-select___00209d'))
+
+WebUI.setText(findTestObject('Object Repository/pengajuan_non gadai/Pengajuan non Gadai/Page_PRIME  Pengajuan Restrukturisasi/input_Nomor Kredit_nomorKredit'), 
+    'pendidikan')
+
+WebUI.sendKeys(findTestObject('Object Repository/pengajuan_non gadai/Pengajuan non Gadai/Page_PRIME  Pengajuan Restrukturisasi/input_Lainnya_penggunaanDana'), 
+    Keys.chord(Keys.ENTER))
+
+WebUI.click(findTestObject('Object Repository/pengajuan_non gadai/Pengajuan non Gadai/Page_PRIME  Pengajuan Restrukturisasi/div_Apakah Profesi Anda Saat Ini_v-select___00209d'))
+
+WebUI.setText(findTestObject('Object Repository/pengajuan_non gadai/Pengajuan non Gadai/Page_PRIME  Pengajuan Restrukturisasi/input_Nomor Kredit_nomorKredit'), 
+    'proses produksi terganggu')
+
+WebUI.sendKeys(findTestObject('Object Repository/pengajuan_non gadai/Pengajuan non Gadai/Page_PRIME  Pengajuan Restrukturisasi/input_Proses produksi terganggu_dampakPandemi'), 
+    Keys.chord(Keys.ENTER))
+
+WebUI.click(findTestObject('Object Repository/pengajuan_non gadai/Pengajuan non Gadai/Page_PRIME  Pengajuan Restrukturisasi/div_Apakah Profesi Anda Saat Ini_v-select___00209d'))
+
+WebUI.setText(findTestObject('Object Repository/pengajuan_non gadai/Pengajuan non Gadai/Page_PRIME  Pengajuan Restrukturisasi/input_Nomor Kredit_nomorKredit'), 
+    'masih berlangsung')
+
+WebUI.sendKeys(findTestObject('Object Repository/pengajuan_non gadai/Pengajuan non Gadai/Page_PRIME  Pengajuan Restrukturisasi/input_Usaha sudah tutup sejak bulan Desembe_97469a'), 
+    Keys.chord(Keys.ENTER))
+
+WebUI.setText(findTestObject('Object Repository/pengajuan_non gadai/Pengajuan non Gadai/Page_PRIME  Pengajuan Restrukturisasi/input__input-421'), 
+    '15.0000')
+
+WebUI.setText(findTestObject('Object Repository/pengajuan_non gadai/Pengajuan non Gadai/Page_PRIME  Pengajuan Restrukturisasi/input_Berapakah jumlah pendapatan anda per _2df2ad'), 
+    '300.000')
+
+WebUI.setText(findTestObject('Object Repository/pengajuan_non gadai/Pengajuan non Gadai/Page_PRIME  Pengajuan Restrukturisasi/input_Berapakah rata - rata jumlah pengelua_59ab20'), 
+    '200.000')
+
+WebUI.click(findTestObject('Object Repository/pengajuan_non gadai/Pengajuan non Gadai/Page_PRIME  Pengajuan Restrukturisasi/div_Detail PengajuanDetail WawancaraINQUIRY_52785f'))
 
 WebUI.closeBrowser()
 

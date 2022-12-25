@@ -19,48 +19,71 @@ import org.openqa.selenium.Keys as Keys
 
 WebUI.openBrowser('')
 
-WebUI.navigateToUrl('http://localhost:8080/login')
+WebUI.navigateToUrl('https://login.live.com/')
+
+WebUI.click(findTestObject('null'))
+
+WebUI.click(findTestObject('null'))
+
+WebUI.selectOptionByValue(findTestObject('null'), 
+    'outlook.co.id', true)
 
 WebUI.setText(findTestObject('null'), 
-    'PKS30003')
+    'emailbaru')
+
+WebUI.selectOptionByValue(findTestObject('null'), 
+    'hotmail.com', true)
+
+WebUI.click(findTestObject('null'))
+
+WebUI.setText(findTestObject('null'), 
+    'emailbarusekali')
+
+WebUI.click(findTestObject('null'))
+
+WebUI.setText(findTestObject('null'), 
+    'emailbaruduakali')
+
+WebUI.click(findTestObject('null'))
+
+WebUI.setText(findTestObject('null'), 
+    'emailbarutigakali')
+
+WebUI.click(findTestObject('null'))
+
+WebUI.setText(findTestObject('null'), 
+    'emailbaru2000kali')
+
+WebUI.click(findTestObject('null'))
+
+WebUI.setText(findTestObject('null'), 
+    'wewqe213213sdsad')
+
+WebUI.click(findTestObject('null'))
 
 WebUI.setEncryptedText(findTestObject('null'), 
-    '4nvbrPglk7k=')
-
-WebUI.click(findTestObject('null'))
-
-WebUI.click(findTestObject('null'))
-
-WebUI.click(findTestObject('null'))
-
-WebUI.click(findTestObject('null'))
-
-WebUI.setText(findTestObject('null'), 
-    '6044322760000268')
-
-WebUI.click(findTestObject('null'))
-
-WebUI.click(findTestObject('null'))
-
-WebUI.click(findTestObject('null'))
-
-WebUI.click(findTestObject('null'))
-
-WebUI.click(findTestObject('null'))
+    'iig8vYg8yUFrv2HHmOrDzw==')
 
 WebUI.click(findTestObject('null'))
 
 WebUI.click(findTestObject('null'))
 
 WebUI.setText(findTestObject('null'), 
-    '6044322760000268')
+    'wewqe')
 
-WebUI.sendKeys(findTestObject('null'), 
-    Keys.chord(Keys.ENTER))
-
-WebUI.click(findTestObject('null'))
+WebUI.setText(findTestObject('null'), 
+    'wewqe')
 
 WebUI.click(findTestObject('null'))
+
+WebUI.selectOptionByValue(findTestObject('null'), 
+    'AF', true)
+
+WebUI.selectOptionByValue(findTestObject('null'), 
+    'Hari', true)
+
+WebUI.selectOptionByValue(findTestObject('null'), 
+    'Bulan', true)
 
 WebUI.closeBrowser()
 

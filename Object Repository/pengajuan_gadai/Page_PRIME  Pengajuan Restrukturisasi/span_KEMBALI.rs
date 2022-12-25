@@ -1,0 +1,99 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>span_KEMBALI</name>
+   <tag></tag>
+   <elementGuidId>10bbe21d-eef2-45d2-9afc-5817b513acff</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>(//button[@id='btn-sde-kembali']/span)[2]</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value>div.v-window-item.v-window-item--active > div.mt-5 > div.v-card__actions.pa-0 > #btn-sde-kembali > span.v-btn__content</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>span</value>
+      <webElementGuid>0834508f-d066-4f70-b4f3-ed4bfa9566a1</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>v-btn__content</value>
+      <webElementGuid>446201ee-8221-42f6-9921-55ad5d16d9b8</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value> KEMBALI</value>
+      <webElementGuid>bece2d0f-fa05-4d27-82dd-dcc85fec5225</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;app&quot;)/div[@class=&quot;v-application--wrap&quot;]/main[@class=&quot;v-main secondary lighten-1 bg-mikro&quot;]/div[@class=&quot;v-main__wrap&quot;]/div[@class=&quot;container container--fluid&quot;]/div[@class=&quot;v-card v-sheet v-sheet--outlined theme--light&quot;]/div[@class=&quot;v-card__text&quot;]/div[@class=&quot;v-tabs theme--light&quot;]/div[@class=&quot;v-window v-item-group theme--light v-tabs-items&quot;]/div[@class=&quot;v-window__container&quot;]/div[@class=&quot;v-window-item v-window-item--active&quot;]/div[@class=&quot;mt-5&quot;]/div[@class=&quot;v-card__actions pa-0&quot;]/button[@id=&quot;btn-sde-kembali&quot;]/span[@class=&quot;v-btn__content&quot;]</value>
+      <webElementGuid>e012883b-f94e-41a5-95ab-c271e09553f1</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>(//button[@id='btn-sde-kembali']/span)[2]</value>
+      <webElementGuid>6b199168-c645-4c6a-ae1f-4ac8de5060a6</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Rupiah'])[17]/following::span[1]</value>
+      <webElementGuid>43f1bc4b-74be-4d48-8edd-e838ff414436</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Berapakah rata - rata jumlah pengeluaran anda per bulan saat ini ?'])[1]/following::span[1]</value>
+      <webElementGuid>70ae5e70-0d34-4f5c-8c62-8c2dcbad9449</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='PT. Pegadaian'])[1]/preceding::span[4]</value>
+      <webElementGuid>f003753f-fdc1-4355-b598-feb24586daeb</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div[3]/div/div[2]/button/span</value>
+      <webElementGuid>b254720d-41ea-4654-8a41-f1b6aa910a4e</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//span[(text() = ' KEMBALI' or . = ' KEMBALI')]</value>
+      <webElementGuid>a1b10d72-4871-473d-8733-edfb81190e15</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>
