@@ -1,17 +1,17 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <WebElementEntity>
    <description></description>
-   <name>button_Ok</name>
+   <name>button_Masuk</name>
    <tag></tag>
-   <elementGuidId>c08cd2b0-d377-4701-9a2e-e6a5e07308b6</elementGuidId>
+   <elementGuidId>f689b8ca-64e1-49eb-b68e-2b950d33d9b5</elementGuidId>
    <selectorCollection>
       <entry>
-         <key>CSS</key>
-         <value>button.v-btn.v-btn--is-elevated.v-btn--has-bg.theme--light.v-size--default.primary</value>
+         <key>XPATH</key>
+         <value>//button[@id='button-submit']</value>
       </entry>
       <entry>
-         <key>XPATH</key>
-         <value>(//button[@type='button'])[2]</value>
+         <key>CSS</key>
+         <value>#button-submit</value>
       </entry>
    </selectorCollection>
    <selectorMethod>XPATH</selectorMethod>
@@ -22,7 +22,7 @@
       <name>tag</name>
       <type>Main</type>
       <value>button</value>
-      <webElementGuid>0f3fb002-5ffb-4278-bbd1-8df88cbcf5a7</webElementGuid>
+      <webElementGuid>713fc977-0656-4b7b-ba82-7580d156017e</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>true</isSelected>
@@ -30,63 +30,79 @@
       <name>type</name>
       <type>Main</type>
       <value>button</value>
-      <webElementGuid>ca9bf109-6337-4208-a6ba-50715dd6972a</webElementGuid>
+      <webElementGuid>ffe8aec4-e29a-4aa0-809b-04f6cb6a2306</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
       <name>class</name>
       <type>Main</type>
-      <value>v-btn v-btn--is-elevated v-btn--has-bg theme--light v-size--default primary</value>
-      <webElementGuid>a00baccf-7e92-46e8-bc6c-747a8d003844</webElementGuid>
+      <value>mb-4 pa-6 v-btn v-btn--block v-btn--is-elevated v-btn--has-bg theme--light v-size--default primary</value>
+      <webElementGuid>0a2b80d0-ac2a-45f5-9f8a-98464f0690cd</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>id</name>
+      <type>Main</type>
+      <value>button-submit</value>
+      <webElementGuid>b1e9da82-35dc-4ca3-8a0c-f2162d02172b</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>true</isSelected>
       <matchCondition>equals</matchCondition>
       <name>text</name>
       <type>Main</type>
-      <value>Ok</value>
-      <webElementGuid>c7c8fd20-9a1f-4477-a5d6-4f348e0db868</webElementGuid>
+      <value>Masuk</value>
+      <webElementGuid>16cea2de-1375-494f-8509-4db0f4374064</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
       <name>xpath</name>
       <type>Main</type>
-      <value>id(&quot;app&quot;)/div[@class=&quot;v-dialog__content v-dialog__content--active&quot;]/div[@class=&quot;v-dialog v-dialog--active v-dialog--persistent&quot;]/div[@class=&quot;v-card v-sheet theme--light&quot;]/div[@class=&quot;v-card__actions&quot;]/button[@class=&quot;v-btn v-btn--is-elevated v-btn--has-bg theme--light v-size--default primary&quot;]</value>
-      <webElementGuid>120f8559-9fe3-414f-be48-e926f7fd705c</webElementGuid>
+      <value>id(&quot;button-submit&quot;)</value>
+      <webElementGuid>93b9bea9-61f6-413d-ada7-8ed04a2313f6</webElementGuid>
    </webElementProperties>
    <webElementXpaths>
       <isSelected>true</isSelected>
       <matchCondition>equals</matchCondition>
       <name>xpath:attributes</name>
       <type>Main</type>
-      <value>(//button[@type='button'])[2]</value>
-      <webElementGuid>0864340d-c4f8-4847-94c7-a023fd9da09d</webElementGuid>
+      <value>//button[@id='button-submit']</value>
+      <webElementGuid>0bffb86a-7de5-4b28-ae4b-b381ef444066</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
       <name>xpath:idRelative</name>
       <type>Main</type>
-      <value>//div[@id='app']/div[4]/div/div/div[3]/button</value>
-      <webElementGuid>c68673a7-b051-4282-b443-fba706cf5966</webElementGuid>
+      <value>//div[@id='app']/div/main/div/div/div/div/div/div/div[2]/form/div[3]/button</value>
+      <webElementGuid>32ccb0fa-8444-4e60-b6a1-868e9b2d1dba</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
       <name>xpath:neighbor</name>
       <type>Main</type>
-      <value>(.//*[normalize-space(text()) and normalize-space(.)='Request failed with status code 404'])[1]/following::button[1]</value>
-      <webElementGuid>3356b9e3-66cf-4130-a82d-38bb4134dada</webElementGuid>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Password'])[1]/following::button[2]</value>
+      <webElementGuid>64e9e766-d8b9-4433-a68a-ef755fba1228</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
       <name>xpath:neighbor</name>
       <type>Main</type>
-      <value>(.//*[normalize-space(text()) and normalize-space(.)='Kesalahan'])[1]/following::button[1]</value>
-      <webElementGuid>2140a7e3-fb5a-4670-93ff-fa5b7586a114</webElementGuid>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='​'])[2]/following::button[2]</value>
+      <webElementGuid>a76769f3-f4d5-4de3-9306-d9cb2db8dd2e</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)=concat('id(', '&quot;', 'button-submit', '&quot;', ')')])[1]/preceding::button[1]</value>
+      <webElementGuid>c3b3ed24-69ab-4576-8c76-8ae4859266fb</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -94,14 +110,14 @@
       <name>xpath:position</name>
       <type>Main</type>
       <value>//div[3]/button</value>
-      <webElementGuid>70d45f85-f96b-44f0-ab34-73c52ead4211</webElementGuid>
+      <webElementGuid>ce27df68-792b-4d36-a5d9-725f2270740d</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
       <name>xpath:customAttributes</name>
       <type>Main</type>
-      <value>//button[@type = 'button' and (text() = 'Ok' or . = 'Ok')]</value>
-      <webElementGuid>a499d855-9f66-4bfa-ba42-c331a3d9fd22</webElementGuid>
+      <value>//button[@type = 'button' and @id = 'button-submit' and (text() = 'Masuk' or . = 'Masuk')]</value>
+      <webElementGuid>785ebc95-35c8-435e-a5e5-4f938917c771</webElementGuid>
    </webElementXpaths>
 </WebElementEntity>

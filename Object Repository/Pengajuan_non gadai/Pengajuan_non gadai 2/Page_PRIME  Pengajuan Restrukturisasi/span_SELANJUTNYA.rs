@@ -1,17 +1,17 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <WebElementEntity>
    <description></description>
-   <name>span_Masuk</name>
+   <name>span_SELANJUTNYA</name>
    <tag></tag>
-   <elementGuidId>67438628-bcff-487c-a54f-4d616d4d98f9</elementGuidId>
+   <elementGuidId>b53c1541-f584-45d0-99eb-cb42f6d2de5e</elementGuidId>
    <selectorCollection>
       <entry>
          <key>XPATH</key>
-         <value>//button[@id='button-submit']/span</value>
+         <value>//button[@id='btn-sde-selanjutnya']/span</value>
       </entry>
       <entry>
          <key>CSS</key>
-         <value>span.v-btn__content</value>
+         <value>#btn-sde-selanjutnya > span.v-btn__content</value>
       </entry>
    </selectorCollection>
    <selectorMethod>XPATH</selectorMethod>
@@ -22,7 +22,7 @@
       <name>tag</name>
       <type>Main</type>
       <value>span</value>
-      <webElementGuid>d44b26a2-3366-4f78-a46b-f3280bca994a</webElementGuid>
+      <webElementGuid>f88dc8a3-dc41-401f-a886-e20b2a510371</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -30,78 +30,78 @@
       <name>class</name>
       <type>Main</type>
       <value>v-btn__content</value>
-      <webElementGuid>0e05728a-673c-4b67-89e7-457bd09401b6</webElementGuid>
+      <webElementGuid>f5e4d3ca-6c1d-4f9a-99f3-7688212297df</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>true</isSelected>
       <matchCondition>equals</matchCondition>
       <name>text</name>
       <type>Main</type>
-      <value>Masuk</value>
-      <webElementGuid>6a31841c-f7d6-4ed9-89a8-ee4b874ce213</webElementGuid>
+      <value> SELANJUTNYA </value>
+      <webElementGuid>2b142752-6c62-431f-9fa4-93aabf54503d</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
       <name>xpath</name>
       <type>Main</type>
-      <value>id(&quot;button-submit&quot;)/span[@class=&quot;v-btn__content&quot;]</value>
-      <webElementGuid>40134698-2bd4-4d0b-b4a1-4be85276725a</webElementGuid>
+      <value>id(&quot;btn-sde-selanjutnya&quot;)/span[@class=&quot;v-btn__content&quot;]</value>
+      <webElementGuid>e109ce75-cfdc-445d-9670-ebd27bad273a</webElementGuid>
    </webElementProperties>
    <webElementXpaths>
       <isSelected>true</isSelected>
       <matchCondition>equals</matchCondition>
       <name>xpath:idRelative</name>
       <type>Main</type>
-      <value>//button[@id='button-submit']/span</value>
-      <webElementGuid>206307f7-90c7-4f81-a58d-477237d370f1</webElementGuid>
+      <value>//button[@id='btn-sde-selanjutnya']/span</value>
+      <webElementGuid>f19cd55b-67be-4f8d-92f6-1026a384afc2</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
       <name>xpath:neighbor</name>
       <type>Main</type>
-      <value>(.//*[normalize-space(text()) and normalize-space(.)='Password'])[1]/following::span[1]</value>
-      <webElementGuid>1653821c-8a85-461a-a422-2a716cab5e13</webElementGuid>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Rupiah'])[11]/following::span[1]</value>
+      <webElementGuid>6d77c3a3-0034-43da-ba03-7fcb27d889da</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
       <name>xpath:neighbor</name>
       <type>Main</type>
-      <value>(.//*[normalize-space(text()) and normalize-space(.)='​'])[2]/following::span[1]</value>
-      <webElementGuid>965bcf65-2038-4de4-810f-276b84aed1af</webElementGuid>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Sewa Modal Per Bulan'])[2]/following::span[1]</value>
+      <webElementGuid>0f18655a-3207-4ccd-b9e8-d771c643ae91</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
       <name>xpath:neighbor</name>
       <type>Main</type>
-      <value>(.//*[normalize-space(text()) and normalize-space(.)=concat('id(', '&quot;', 'button-submit', '&quot;', ')/span[@class=', '&quot;', 'v-btn__content', '&quot;', ']')])[1]/preceding::span[3]</value>
-      <webElementGuid>1a42bc35-07ef-4caa-b22a-f8212fcff1f1</webElementGuid>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='PT. Pegadaian'])[1]/preceding::span[3]</value>
+      <webElementGuid>1274f1c4-91a2-4d82-b6c6-ae27cbde353e</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
       <name>xpath:neighbor</name>
       <type>Main</type>
-      <value>//*/text()[normalize-space(.)='Masuk']/parent::*</value>
-      <webElementGuid>7d2fd5e4-337e-48ec-a3df-7352e3b05c82</webElementGuid>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)=concat('id(', '&quot;', 'btn-sde-selanjutnya', '&quot;', ')/span[@class=', '&quot;', 'v-btn__content', '&quot;', ']')])[1]/preceding::span[3]</value>
+      <webElementGuid>6c879b48-bc6a-406c-a5a0-fe5332990058</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
       <name>xpath:position</name>
       <type>Main</type>
-      <value>//button/span</value>
-      <webElementGuid>d7af920d-46d1-45f8-9d62-1c87cd754db3</webElementGuid>
+      <value>//div[4]/button/span</value>
+      <webElementGuid>c28e7a10-310a-4500-b0f2-537d0e84335f</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
       <name>xpath:customAttributes</name>
       <type>Main</type>
-      <value>//span[(text() = 'Masuk' or . = 'Masuk')]</value>
-      <webElementGuid>3551f14f-4dc7-48a5-90a1-7593f3541733</webElementGuid>
+      <value>//span[(text() = ' SELANJUTNYA ' or . = ' SELANJUTNYA ')]</value>
+      <webElementGuid>924f728f-9468-44bb-8abc-23bad43abe11</webElementGuid>
    </webElementXpaths>
 </WebElementEntity>

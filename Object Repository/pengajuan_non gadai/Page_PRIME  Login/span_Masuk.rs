@@ -3,15 +3,15 @@
    <description></description>
    <name>span_Masuk</name>
    <tag></tag>
-   <elementGuidId>28afa4be-2351-44c2-b022-c155c29d9bbd</elementGuidId>
+   <elementGuidId>fe854f95-595b-45ae-a35f-1ff8aeb37ca3</elementGuidId>
    <selectorCollection>
-      <entry>
-         <key>CSS</key>
-         <value>span.v-btn__content</value>
-      </entry>
       <entry>
          <key>XPATH</key>
          <value>//button[@id='button-submit']/span</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value>span.v-btn__content</value>
       </entry>
    </selectorCollection>
    <selectorMethod>XPATH</selectorMethod>
@@ -22,7 +22,7 @@
       <name>tag</name>
       <type>Main</type>
       <value>span</value>
-      <webElementGuid>ad8f41c8-5533-494a-b798-8e829581d1d6</webElementGuid>
+      <webElementGuid>bc154a14-3856-4f03-805e-182ec6806cd0</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -30,7 +30,7 @@
       <name>class</name>
       <type>Main</type>
       <value>v-btn__content</value>
-      <webElementGuid>03616368-8613-437b-95e3-8a9027911ccd</webElementGuid>
+      <webElementGuid>bdfdbfb6-ff4b-4074-a143-000a2cded02a</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>true</isSelected>
@@ -38,7 +38,7 @@
       <name>text</name>
       <type>Main</type>
       <value>Masuk</value>
-      <webElementGuid>5ede6eec-93af-420f-8285-e30543df5dce</webElementGuid>
+      <webElementGuid>71c0e39e-bb47-4ef9-a609-b9232e7e2f9e</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -46,39 +46,7 @@
       <name>xpath</name>
       <type>Main</type>
       <value>id(&quot;button-submit&quot;)/span[@class=&quot;v-btn__content&quot;]</value>
-      <webElementGuid>039f76e4-5d70-451c-8c2b-0dd645901f65</webElementGuid>
-   </webElementProperties>
-   <webElementProperties>
-      <isSelected>false</isSelected>
-      <matchCondition>equals</matchCondition>
-      <name>tag</name>
-      <type>Main</type>
-      <value>span</value>
-      <webElementGuid>cf35089a-381e-491c-9448-7b22e15ab7f5</webElementGuid>
-   </webElementProperties>
-   <webElementProperties>
-      <isSelected>false</isSelected>
-      <matchCondition>equals</matchCondition>
-      <name>class</name>
-      <type>Main</type>
-      <value>v-btn__content</value>
-      <webElementGuid>193a1610-b457-481d-88b6-c988d60cf116</webElementGuid>
-   </webElementProperties>
-   <webElementProperties>
-      <isSelected>false</isSelected>
-      <matchCondition>equals</matchCondition>
-      <name>text</name>
-      <type>Main</type>
-      <value>Masuk</value>
-      <webElementGuid>f0ca6078-34a9-4728-bd1c-913cc93515a0</webElementGuid>
-   </webElementProperties>
-   <webElementProperties>
-      <isSelected>false</isSelected>
-      <matchCondition>equals</matchCondition>
-      <name>xpath</name>
-      <type>Main</type>
-      <value>id(&quot;button-submit&quot;)/span[@class=&quot;v-btn__content&quot;]</value>
-      <webElementGuid>8a118be3-ca0b-40a7-a765-48f6b0808641</webElementGuid>
+      <webElementGuid>b2797920-e809-4d22-99b7-6c6f96468bc0</webElementGuid>
    </webElementProperties>
    <webElementXpaths>
       <isSelected>true</isSelected>
@@ -86,7 +54,7 @@
       <name>xpath:idRelative</name>
       <type>Main</type>
       <value>//button[@id='button-submit']/span</value>
-      <webElementGuid>92a010fc-5b01-44b0-a4fe-e4035da2bb0f</webElementGuid>
+      <webElementGuid>cbb67195-a764-4221-91fc-40a960be545b</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -94,7 +62,7 @@
       <name>xpath:neighbor</name>
       <type>Main</type>
       <value>(.//*[normalize-space(text()) and normalize-space(.)='Password'])[1]/following::span[1]</value>
-      <webElementGuid>62d49614-0581-46b6-887e-923f3a1129a0</webElementGuid>
+      <webElementGuid>567d99ae-4a86-4e8d-9190-944f636fecf8</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -102,7 +70,7 @@
       <name>xpath:neighbor</name>
       <type>Main</type>
       <value>(.//*[normalize-space(text()) and normalize-space(.)='​'])[2]/following::span[1]</value>
-      <webElementGuid>0fde7fb9-057b-410b-b93c-6978b839e4f5</webElementGuid>
+      <webElementGuid>ffae3ea9-037c-424f-b3e3-6ecd98207add</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -110,7 +78,7 @@
       <name>xpath:neighbor</name>
       <type>Main</type>
       <value>(.//*[normalize-space(text()) and normalize-space(.)=concat('id(', '&quot;', 'button-submit', '&quot;', ')/span[@class=', '&quot;', 'v-btn__content', '&quot;', ']')])[1]/preceding::span[3]</value>
-      <webElementGuid>0e1e9305-f999-47e3-aa7b-dfa220259796</webElementGuid>
+      <webElementGuid>2e071e49-81f0-4064-8ff8-089e5009e1e0</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -118,7 +86,7 @@
       <name>xpath:neighbor</name>
       <type>Main</type>
       <value>//*/text()[normalize-space(.)='Masuk']/parent::*</value>
-      <webElementGuid>b0b771e3-1a98-424d-8706-50a7396fdd51</webElementGuid>
+      <webElementGuid>a7d24c8a-f6c1-41a4-b823-d29e76b26084</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -126,7 +94,7 @@
       <name>xpath:position</name>
       <type>Main</type>
       <value>//button/span</value>
-      <webElementGuid>9b154d64-015e-42d4-8133-ff1442ca156f</webElementGuid>
+      <webElementGuid>e45a55c4-eb0f-442d-a522-c5142b1681d1</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -134,6 +102,6 @@
       <name>xpath:customAttributes</name>
       <type>Main</type>
       <value>//span[(text() = 'Masuk' or . = 'Masuk')]</value>
-      <webElementGuid>9a907acb-15dd-4971-bb00-d9e26684693f</webElementGuid>
+      <webElementGuid>d0382b7a-744d-4bf0-b078-c82e61c03bfe</webElementGuid>
    </webElementXpaths>
 </WebElementEntity>

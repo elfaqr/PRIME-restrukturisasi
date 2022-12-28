@@ -3,7 +3,7 @@
    <description></description>
    <name>div_Restrukturisasi Non Gadai</name>
    <tag></tag>
-   <elementGuidId>166e8e5f-c3f4-46b4-8cb4-22ed8e95d042</elementGuidId>
+   <elementGuidId>3e721caa-ddae-4598-83d6-6c7ccddc4a54</elementGuidId>
    <selectorCollection>
       <entry>
          <key>XPATH</key>
@@ -22,7 +22,7 @@
       <name>tag</name>
       <type>Main</type>
       <value>div</value>
-      <webElementGuid>d7192dec-1d59-4dec-a748-a63b42d04c48</webElementGuid>
+      <webElementGuid>7ca1a72c-0cd5-4a51-91f8-28dcecce84c8</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -30,7 +30,7 @@
       <name>class</name>
       <type>Main</type>
       <value>v-list-item__title</value>
-      <webElementGuid>b244d9ae-3d79-483b-9b4b-3ed1c9a536f7</webElementGuid>
+      <webElementGuid>d14dc177-1131-4b5a-8cc1-2514e209c6a7</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>true</isSelected>
@@ -38,7 +38,7 @@
       <name>text</name>
       <type>Main</type>
       <value>Restrukturisasi Non Gadai</value>
-      <webElementGuid>54935702-a3a0-47f8-a1d2-916ad98d503e</webElementGuid>
+      <webElementGuid>09a76c86-115e-4bc4-82bb-8063eaf76154</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -46,7 +46,7 @@
       <name>xpath</name>
       <type>Main</type>
       <value>id(&quot;app&quot;)/div[@class=&quot;v-application--wrap&quot;]/nav[@class=&quot;secondary lighten-1 mt-5 v-navigation-drawer v-navigation-drawer--clipped v-navigation-drawer--fixed v-navigation-drawer--is-mouseover v-navigation-drawer--open theme--light&quot;]/div[@class=&quot;v-navigation-drawer__content&quot;]/div[@class=&quot;ma-5 v-card v-sheet theme--light&quot;]/div[@class=&quot;v-list v-sheet theme--light&quot;]/div[@class=&quot;v-item-group theme--light v-list-item-group&quot;]/div[@class=&quot;v-list-group v-list-group--no-action&quot;]/div[@class=&quot;v-list-group__header v-list-item v-list-item--link theme--light&quot;]/div[@class=&quot;v-list-item__content&quot;]/div[@class=&quot;v-list-item__title&quot;]</value>
-      <webElementGuid>07710270-d695-49c5-ae57-97517f5f4d2d</webElementGuid>
+      <webElementGuid>ecdb4bfc-0ec3-4148-8242-0ca7a02586ee</webElementGuid>
    </webElementProperties>
    <webElementXpaths>
       <isSelected>true</isSelected>
@@ -54,7 +54,7 @@
       <name>xpath:idRelative</name>
       <type>Main</type>
       <value>//div[@id='app']/div[2]/nav/div/div/div/div[5]/div/div/div[2]/div</value>
-      <webElementGuid>9bd55155-337e-4723-bf02-28cb217478e9</webElementGuid>
+      <webElementGuid>7a751108-d142-47db-a406-cf2c51eed6af</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -62,7 +62,7 @@
       <name>xpath:neighbor</name>
       <type>Main</type>
       <value>(.//*[normalize-space(text()) and normalize-space(.)='Laporan'])[1]/following::div[7]</value>
-      <webElementGuid>98781d29-23e4-4e85-be6d-9ffaf2d60400</webElementGuid>
+      <webElementGuid>8ce02864-506d-4dbc-b755-58563d498151</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -70,7 +70,7 @@
       <name>xpath:neighbor</name>
       <type>Main</type>
       <value>(.//*[normalize-space(text()) and normalize-space(.)='Restrukturisasi Non Gadai'])[1]/following::div[14]</value>
-      <webElementGuid>d5874723-9b02-40ed-a478-5aa74590de82</webElementGuid>
+      <webElementGuid>f76ce114-56cf-488c-886e-edcf1eaf5178</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -78,7 +78,7 @@
       <name>xpath:neighbor</name>
       <type>Main</type>
       <value>(.//*[normalize-space(text()) and normalize-space(.)='Restrukturisasi Gadai'])[1]/preceding::div[3]</value>
-      <webElementGuid>1c3ace2d-dfb6-40f7-b302-41c2b7e25d53</webElementGuid>
+      <webElementGuid>0bdb80a7-5fde-4a8e-a7b8-0a5ac27e45a9</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -86,7 +86,7 @@
       <name>xpath:neighbor</name>
       <type>Main</type>
       <value>(.//*[normalize-space(text()) and normalize-space(.)='Dashboard'])[2]/preceding::div[10]</value>
-      <webElementGuid>e7b7077b-8668-471d-8010-cb177567e96d</webElementGuid>
+      <webElementGuid>38b0e7de-ffff-41a8-8e32-e970bbda2ff2</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -94,7 +94,7 @@
       <name>xpath:position</name>
       <type>Main</type>
       <value>//div[5]/div/div/div[2]/div</value>
-      <webElementGuid>bce3a0e4-13cf-4aa6-b68c-e1298503ca68</webElementGuid>
+      <webElementGuid>7dfbc809-0f0c-400f-8bcf-831b58d215bc</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -102,6 +102,6 @@
       <name>xpath:customAttributes</name>
       <type>Main</type>
       <value>//div[(text() = 'Restrukturisasi Non Gadai' or . = 'Restrukturisasi Non Gadai')]</value>
-      <webElementGuid>ddf7d865-5697-431f-bd88-1379b99e38f3</webElementGuid>
+      <webElementGuid>e7bb7f10-1fc6-4e33-aba7-1a53b2de03e4</webElementGuid>
    </webElementXpaths>
 </WebElementEntity>

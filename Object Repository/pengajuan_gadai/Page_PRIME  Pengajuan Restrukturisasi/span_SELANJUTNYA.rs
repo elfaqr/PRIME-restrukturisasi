@@ -22,6 +22,38 @@
       <name>tag</name>
       <type>Main</type>
       <value>span</value>
+      <webElementGuid>074aa42d-56f2-4322-83ee-c441b9668c4a</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>v-btn__content</value>
+      <webElementGuid>05207891-a931-4e45-bddd-951c548785ad</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value> SELANJUTNYA </value>
+      <webElementGuid>1c2381af-7666-4b70-839e-b2cf39fcdb6a</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;btn-sde-selanjutnya&quot;)/span[@class=&quot;v-btn__content&quot;]</value>
+      <webElementGuid>f28f8815-b013-4e69-93c8-73337b30f605</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>span</value>
       <webElementGuid>6715ec01-83a8-4989-9dfc-d26fa25443d9</webElementGuid>
    </webElementProperties>
    <webElementProperties>
@@ -33,7 +65,7 @@
       <webElementGuid>548ccf6b-a1e4-425d-a527-f029145ecde3</webElementGuid>
    </webElementProperties>
    <webElementProperties>
-      <isSelected>true</isSelected>
+      <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
       <name>text</name>
       <type>Main</type>
@@ -86,7 +118,7 @@
       <name>xpath:idRelative</name>
       <type>Main</type>
       <value>//button[@id='btn-sde-selanjutnya']/span</value>
-      <webElementGuid>c92d67e0-c1f2-4c8d-a1ae-a7fb44728807</webElementGuid>
+      <webElementGuid>f193e2c6-e9c3-45f2-839b-6e82f3b1cf31</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -94,7 +126,7 @@
       <name>xpath:neighbor</name>
       <type>Main</type>
       <value>(.//*[normalize-space(text()) and normalize-space(.)='Rupiah'])[11]/following::span[1]</value>
-      <webElementGuid>153e66ad-a064-4c8c-997b-b35e3afcf3ed</webElementGuid>
+      <webElementGuid>f0ad7946-c31e-4774-a13a-2c1237d4134e</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -102,7 +134,7 @@
       <name>xpath:neighbor</name>
       <type>Main</type>
       <value>(.//*[normalize-space(text()) and normalize-space(.)='Sewa Modal Per Bulan'])[2]/following::span[1]</value>
-      <webElementGuid>fd34c418-bc72-4f6f-a66c-99b71504221e</webElementGuid>
+      <webElementGuid>39f2ed51-90f4-4c44-ac20-a46f494f5f78</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -110,7 +142,31 @@
       <name>xpath:neighbor</name>
       <type>Main</type>
       <value>(.//*[normalize-space(text()) and normalize-space(.)='PT. Pegadaian'])[1]/preceding::span[3]</value>
-      <webElementGuid>64a12bdc-9618-4fe2-8f34-630b71a905cb</webElementGuid>
+      <webElementGuid>6f3cb152-b924-4d38-b51d-d733409ba12d</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)=concat('id(', '&quot;', 'btn-sde-selanjutnya', '&quot;', ')/span[@class=', '&quot;', 'v-btn__content', '&quot;', ']')])[1]/preceding::span[3]</value>
+      <webElementGuid>493b73d6-04fa-4435-a3a7-c4dfebe5bef3</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div[4]/button/span</value>
+      <webElementGuid>7c2e15b4-789f-4ff5-8dd6-8002a125c665</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//span[(text() = ' SELANJUTNYA ' or . = ' SELANJUTNYA ')]</value>
+      <webElementGuid>306c4cbe-bb8c-4ccd-a0a4-7fa25adddc60</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -119,21 +175,5 @@
       <type>Main</type>
       <value>(.//*[normalize-space(text()) and normalize-space(.)='Kesalahan'])[1]/preceding::span[3]</value>
       <webElementGuid>4c4d84c1-45a7-4b0b-b223-d768da323bd7</webElementGuid>
-   </webElementXpaths>
-   <webElementXpaths>
-      <isSelected>false</isSelected>
-      <matchCondition>equals</matchCondition>
-      <name>xpath:position</name>
-      <type>Main</type>
-      <value>//div[4]/button/span</value>
-      <webElementGuid>1a8c6da0-5aff-4e32-b953-3d4068d54605</webElementGuid>
-   </webElementXpaths>
-   <webElementXpaths>
-      <isSelected>false</isSelected>
-      <matchCondition>equals</matchCondition>
-      <name>xpath:customAttributes</name>
-      <type>Main</type>
-      <value>//span[(text() = ' SELANJUTNYA ' or . = ' SELANJUTNYA ')]</value>
-      <webElementGuid>0d84944c-e72f-4094-8e2b-f6c6517d7c3e</webElementGuid>
    </webElementXpaths>
 </WebElementEntity>

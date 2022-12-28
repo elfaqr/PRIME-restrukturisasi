@@ -21,12 +21,10 @@ WebUI.openBrowser('')
 
 WebUI.navigateToUrl('http://localhost:8080/')
 
-WebUI.setText(findTestObject('Object Repository/login_ao_mng/Page_PRIME  Login/input_NIK_input-nik'), 'PKS30003')
+WebUI.setText(findTestObject('Object Repository/login_ao_mng/Page_PRIME  Login/input_NIK_input-nik'), 'P83361')
 
 WebUI.setEncryptedText(findTestObject('Object Repository/login_ao_mng/Page_PRIME  Login/input_Password_input-password'), 
     '4nvbrPglk7k=')
 
 WebUI.click(findTestObject('Object Repository/login_ao_mng/Page_PRIME  Login/button_Masuk'))
-
-WebUI.click(findTestObject('Object Repository/login_ao_mng/Page_PRIME  Dashboard/span_Ok'))
 
